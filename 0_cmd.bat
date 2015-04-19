@@ -1,0 +1,1 @@
+cmd.exe /k "ghci -XFlexibleInstances practicaHaskell_DanielAlbarral.hs"
